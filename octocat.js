@@ -1,5 +1,5 @@
 var test = {
-	testVar: 100,
+	testVar: 150,
 	testFunc: function(num) {
 		return num * this.testVar;
 	}
