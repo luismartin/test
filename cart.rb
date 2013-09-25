@@ -1,1 +1,1 @@
-carrito de la compra
+carrito de la compra de Clon1
